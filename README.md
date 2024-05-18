@@ -34,8 +34,8 @@ You have two themes, Sunset and Morning and here the screenshots
     "dark": "Serendipity Sunset",
     "light": "Serendipity Morning"
   },
-  "ui_font_size": 15,
-  "buffer_font_size": 15,
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
   "buffer_font_family": "BlexMono Nerd Font Mono",
   "terminal": {
     "dock": "bottom",
