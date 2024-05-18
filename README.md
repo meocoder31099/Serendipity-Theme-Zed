@@ -10,8 +10,6 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 3. Select Serendipity Themes_ and Install
 4. Select your Serendipity theme in the dropdown shown after hitting `cmd+k`, `cmd+t`
 
-The theme is available for editors, shells, UI's and more coming up. Checkout the website
-
 ## Available Options
 - Light Morning
 - Dark Sunset
