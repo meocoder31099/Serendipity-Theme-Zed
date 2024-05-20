@@ -5,10 +5,13 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 
 # Install via Zed Extensions
 
-1. Open Zed.
-2. `cmd+shift+p` and select _zed: extensions_
-3. Select Serendipity Themes_ and Install
-4. Select your Serendipity theme in the dropdown shown after hitting `cmd+k`, `cmd+t`
+1. Open the **Command Palette** with <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Macos) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows, Linux)
+2. Open the **Extensions** view with the `zed: extensions` command
+3. Search for `Serendipity Themes`
+4. Click on **Install**.
+5. Open the **Command Palette** again
+6. Open the **Theme selector** with the `theme selector: toggle` command
+7. Search for `Serendipity` and choose an `Serendipity` variant.
 
 ## Available Options 
 - Light Morning
