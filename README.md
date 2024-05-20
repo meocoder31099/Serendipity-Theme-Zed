@@ -10,9 +10,10 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 3. Select Serendipity Themes_ and Install
 4. Select your Serendipity theme in the dropdown shown after hitting `cmd+k`, `cmd+t`
 
-## Available Options
+## Available Options 
 - Light Morning
 - Dark Sunset
+- Dark Midnight
 
 ### Options
 You have two themes, Sunset and Morning and here the screenshots
