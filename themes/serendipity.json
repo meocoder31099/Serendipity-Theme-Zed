@@ -595,7 +595,7 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#DEE0EF",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -820,7 +820,7 @@
             "font_weight": null
           },
           "function": {
-            "color": "#DEE0EF",
+            "color": "#F8D2C9",
             "font_style": null,
             "font_weight": null
           },
