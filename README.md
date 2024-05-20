@@ -17,6 +17,9 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 ### Options
 You have two themes, Sunset and Morning and here the screenshots
 
+### Midnight
+![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight.png?raw=true)
+
 ### Sunset
 ![Sunset Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/sunset.png?raw=true)
 
