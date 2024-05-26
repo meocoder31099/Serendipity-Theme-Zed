@@ -24,6 +24,9 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
 ### Midnight
 ![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight.png?raw=true)
 
+### Midnight minimal
+![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight-minimal.png?raw=true)
+
 ### Sunset
 ![Sunset Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/sunset.png?raw=true)
 

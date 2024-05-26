@@ -4,7 +4,7 @@
   "author": "Nguyen Dang Vinh <meocoder@gmail.com>",
   "themes": [
     {
-      "name": "Serendipity Morning",
+      "name": "Serendipity Morning - No Italics",
       "appearance": "light",
       "style": {
         "border": "#0000",
@@ -141,7 +141,7 @@
         "syntax": {
           "attribute": {
             "color": "#77AAB3",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "boolean": {
@@ -151,12 +151,12 @@
           },
           "comment": {
             "color": "#8388AD",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "comment.doc": {
             "color": "#8388AD",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "constant": {
@@ -261,7 +261,7 @@
           },
           "variable": {
             "color": "#F19A8E",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "variable.special": {
@@ -281,7 +281,7 @@
           },
           "hint": {
             "color": "#77AAB3e6",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "link_text": {
@@ -321,14 +321,14 @@
           },
           "variable.parameter": {
             "color": "#77AAB3",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           }
         }
       }
     },
     {
-      "name": "Serendipity Sunset",
+      "name": "Serendipity Sunset - No Italics",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -466,7 +466,7 @@
         "syntax": {
           "attribute": {
             "color": "#AAC9D4",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "boolean": {
@@ -476,12 +476,12 @@
           },
           "comment": {
             "color": "#8D8F9E",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "comment.doc": {
             "color": "#8D8F9E",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "constant": {
@@ -586,7 +586,7 @@
           },
           "variable": {
             "color": "#D6B4B4",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "variable.special": {
@@ -606,7 +606,7 @@
           },
           "hint": {
             "color": "#AAC9D4e6",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "link_text": {
@@ -646,14 +646,14 @@
           },
           "variable.parameter": {
             "color": "#AAC9D4",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           }
         }
       }
     },
     {
-      "name": "Serendipity Midnight",
+      "name": "Serendipity Midnight - No Italics",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -791,7 +791,7 @@
         "syntax": {
           "attribute": {
             "color": "#9ccfd8",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "boolean": {
@@ -801,12 +801,12 @@
           },
           "comment": {
             "color": "#6B6D7C",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "comment.doc": {
             "color": "#6B6D7C",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "constant": {
@@ -911,7 +911,7 @@
           },
           "variable": {
             "color": "#F8D2C9",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "variable.special": {
@@ -931,7 +931,7 @@
           },
           "hint": {
             "color": "#9ccfd8e6",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "link_text": {
@@ -971,14 +971,14 @@
           },
           "variable.parameter": {
             "color": "#9ccfd8",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           }
         }
       }
     },
     {
-      "name": "Serendipity Midnight Minimal",
+      "name": "Serendipity Midnight Minimal - No Italics",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -1126,12 +1126,12 @@
           },
           "comment": {
             "color": "#ffffff30",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "comment.doc": {
             "color": "#ffffff30",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "constant": {
@@ -1146,7 +1146,7 @@
           },
           "emphasis": {
             "color": "#F28779",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "emphasis.strong": {
@@ -1286,7 +1286,7 @@
           },
           "hint": {
             "color": "#969696ff",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           },
           "predictive": {
@@ -1306,7 +1306,7 @@
           },
           "variable.parameter": {
             "color": "#D4BFFF",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": null
           }
         }
