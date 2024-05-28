@@ -17,6 +17,7 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 - Light Morning
 - Dark Sunset
 - Dark Midnight
+- Dark Midnight Minimal
 
 ### Options
 You have three themes, Sunset, Midnight and Morning and here the screenshots
