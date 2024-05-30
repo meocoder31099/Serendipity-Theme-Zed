@@ -57,6 +57,10 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
     "file_icons": false,
     "indent_size": 10
   },
+  // for indent guides multiple color
+  "indent_guides": {
+    "coloring": "indent_aware"
+  }
 }
 ```
 
