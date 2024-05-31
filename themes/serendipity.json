@@ -208,7 +208,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#5F6488",
+            "color": "#7397DE",
             "font_style": null,
             "font_weight": null
           },
@@ -540,7 +540,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#6B6D7C",
+            "color": "#A0B6E8",
             "font_style": null,
             "font_weight": null
           },
@@ -872,7 +872,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#8D8F9E",
+            "color": "#94b8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1133,9 +1133,7 @@
         "warning": "#f29e74",
         "warning.background": "#0a0e15",
         "warning.border": "#8c94a366",
-        "accents": [
-          "#ffffff30"
-        ],
+        "accents": ["#ffffff30"],
         "players": [],
         "syntax": {
           "attribute": {
@@ -1229,7 +1227,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#acb9d9",
+            "color": "#73D0FF",
             "font_style": null,
             "font_weight": null
           },
@@ -1335,7 +1333,8 @@
           }
         }
       }
-    },{
+    },
+    {
       "name": "Serendipity Morning - No Italics",
       "appearance": "light",
       "style": {
@@ -1540,7 +1539,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#5F6488",
+            "color": "#7397DE",
             "font_style": null,
             "font_weight": null
           },
@@ -1872,7 +1871,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#6B6D7C",
+            "color": "#A0B6E8",
             "font_style": null,
             "font_weight": null
           },
@@ -2204,7 +2203,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#8D8F9E",
+            "color": "#94b8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -2465,9 +2464,7 @@
         "warning": "#f29e74",
         "warning.background": "#0a0e15",
         "warning.border": "#8c94a366",
-        "accents": [
-          "#ffffff30"
-        ],
+        "accents": ["#ffffff30"],
         "players": [],
         "syntax": {
           "attribute": {
@@ -2561,7 +2558,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#acb9d9",
+            "color": "#73D0FF",
             "font_style": null,
             "font_weight": null
           },
@@ -2668,6 +2665,5 @@
         }
       }
     }
-    
   ]
 }
