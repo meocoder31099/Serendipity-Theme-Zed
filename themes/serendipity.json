@@ -145,7 +145,48 @@
           "#F19A8E",
           "#77AAB3"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#8388AD",
+            "selection": "#6e6a8614",
+            "background": "#4E5377"
+          },
+          {
+            "cursor": "#64469f",
+            "selection": "#64469f66",
+            "background": "#64469f"
+          },
+          {
+            "cursor": "#486f50",
+            "selection": "#486f5066",
+            "background": "#486f50"
+          },
+          {
+            "cursor": "#823556",
+            "selection": "#82355666",
+            "background": "#823556"
+          },
+          {
+            "cursor": "#37697c",
+            "selection": "#37697c66",
+            "background": "#37697c"
+          },
+          {
+            "cursor": "#945743",
+            "selection": "#94574366",
+            "background": "#945743"
+          },
+          {
+            "cursor": "#87684b",
+            "selection": "#87684b66",
+            "background": "#87684b"
+          },
+          {
+            "cursor": "#3a58a1",
+            "selection": "#3a58a166",
+            "background": "#3a58a1"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#77AAB3",
@@ -318,7 +359,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#5F6488",
+            "color": "#7397DE",
             "font_style": null,
             "font_weight": null
           },
@@ -477,7 +518,48 @@
           "#D6B4B4",
           "#AAC9D4"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#D1918F",
+            "selection": "#6B6D7C26",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#AAC9D4",
@@ -650,7 +732,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#6B6D7C",
+            "color": "#A0B6E8",
             "font_style": null,
             "font_weight": null
           },
@@ -809,7 +891,48 @@
           "#F8D2C9",
           "#9ccfd8"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#D1918F",
+            "selection": "#6B6D7C1a",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#9ccfd8",
@@ -982,7 +1105,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#6B6D7C",
+            "color": "#94b8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1133,8 +1256,51 @@
         "warning": "#f29e74",
         "warning.background": "#0a0e15",
         "warning.border": "#8c94a366",
-        "accents": ["#ffffff30"],
-        "players": [],
+        "accents": [
+          "#ffffff30"
+        ],
+        "players": [
+          {
+            "cursor": "#f29e74",
+            "selection": "#33415e",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#9df0f0",
@@ -1317,7 +1483,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#78A9FF",
+            "color": "#73D0FF",
             "font_style": null,
             "font_weight": null
           },
@@ -1476,7 +1642,48 @@
           "#F19A8E",
           "#77AAB3"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#8388AD",
+            "selection": "#6e6a8614",
+            "background": "#4E5377"
+          },
+          {
+            "cursor": "#64469f",
+            "selection": "#64469f66",
+            "background": "#64469f"
+          },
+          {
+            "cursor": "#486f50",
+            "selection": "#486f5066",
+            "background": "#486f50"
+          },
+          {
+            "cursor": "#823556",
+            "selection": "#82355666",
+            "background": "#823556"
+          },
+          {
+            "cursor": "#37697c",
+            "selection": "#37697c66",
+            "background": "#37697c"
+          },
+          {
+            "cursor": "#945743",
+            "selection": "#94574366",
+            "background": "#945743"
+          },
+          {
+            "cursor": "#87684b",
+            "selection": "#87684b66",
+            "background": "#87684b"
+          },
+          {
+            "cursor": "#3a58a1",
+            "selection": "#3a58a166",
+            "background": "#3a58a1"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#77AAB3",
@@ -1649,7 +1856,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#5F6488",
+            "color": "#7397DE",
             "font_style": null,
             "font_weight": null
           },
@@ -1808,7 +2015,48 @@
           "#D6B4B4",
           "#AAC9D4"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#D1918F",
+            "selection": "#6B6D7C26",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#AAC9D4",
@@ -1981,7 +2229,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#6B6D7C",
+            "color": "#A0B6E8",
             "font_style": null,
             "font_weight": null
           },
@@ -2140,7 +2388,48 @@
           "#F8D2C9",
           "#9ccfd8"
         ],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#D1918F",
+            "selection": "#6B6D7C1a",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#9ccfd8",
@@ -2313,7 +2602,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#6B6D7C",
+            "color": "#94b8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -2464,8 +2753,51 @@
         "warning": "#f29e74",
         "warning.background": "#0a0e15",
         "warning.border": "#8c94a366",
-        "accents": ["#ffffff30"],
-        "players": [],
+        "accents": [
+          "#ffffff30"
+        ],
+        "players": [
+          {
+            "cursor": "#f29e74",
+            "selection": "#33415e",
+            "background": "#f5e0dc"
+          },
+          {
+            "cursor": "#ccc2f5",
+            "selection": "#ccc2f566",
+            "background": "#ccc2f5"
+          },
+          {
+            "cursor": "#bddbd2",
+            "selection": "#bddbd266",
+            "background": "#bddbd2"
+          },
+          {
+            "cursor": "#dcb8d5",
+            "selection": "#dcb8d566",
+            "background": "#dcb8d5"
+          },
+          {
+            "cursor": "#b6dae7",
+            "selection": "#b6dae766",
+            "background": "#b6dae7"
+          },
+          {
+            "cursor": "#dfc8c8",
+            "selection": "#dfc8c866",
+            "background": "#dfc8c8"
+          },
+          {
+            "cursor": "#dfdad8",
+            "selection": "#dfdad866",
+            "background": "#dfdad8"
+          },
+          {
+            "cursor": "#b2c8f6",
+            "selection": "#b2c8f666",
+            "background": "#b2c8f6"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#9df0f0",
@@ -2648,7 +2980,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": "#78A9FF",
+            "color": "#73D0FF",
             "font_style": null,
             "font_weight": null
           },
