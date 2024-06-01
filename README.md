@@ -1,6 +1,7 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
 # Serendipity for Zed.
+
 the color palette is designed to be easy on the eyes, with enough contrast to make individual elements distinguishable but not so bright as to be jarring in a darkened coding environment.
 
 # Install via Zed Extensions
@@ -13,25 +14,31 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 6. Open the **Theme selector** with the `theme selector: toggle` command
 7. Search for `Serendipity` and choose an `Serendipity` variant.
 
-## Available Options 
+## Available Options
+
 - Light Morning
 - Dark Sunset
 - Dark Midnight
 - Dark Midnight Minimal
 
 ### Options
+
 You have three themes, Sunset, Midnight and Morning and here the screenshots
 
 ### Midnight
+
 ![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight.png?raw=true)
 
 ### Midnight minimal
+
 ![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight-minimal.png?raw=true)
 
 ### Sunset
+
 ![Sunset Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/sunset.png?raw=true)
 
 ### Morning
+
 ![Morning Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/morning.png?raw=true)
 
 ## Personal Settings.
@@ -43,13 +50,14 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
     "dark": "Serendipity Sunset",
     "light": "Serendipity Morning"
   },
-  "ui_font_size": 16,
-  "buffer_font_size": 16,
-  "buffer_font_family": "BlexMono Nerd Font Mono",
+  "ui_font_family": "FiraCode Nerd Font Mono",
+  "ui_font_size": 15,
+  "buffer_font_size": 15,
+  "buffer_font_family": "FiraCode Nerd Font Mono",
   "terminal": {
     "dock": "bottom",
-    "font_size": 13,
-    "font_family": "BlexMono Nerd Font Mono"
+    "font_size": 12,
+    "font_family": "FiraCode Nerd Font Mono"
   },
   "project_panel": {
     "dock": "right",
@@ -63,7 +71,6 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
   }
 }
 ```
-
 
 Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)
