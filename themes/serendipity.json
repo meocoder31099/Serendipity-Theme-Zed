@@ -122,9 +122,9 @@
         "modified": "#F19A8E",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#5F6488",
+        "predictive.background": "#F1F1F4",
+        "predictive.border": "#0000",
         "renamed": "#3788BE",
         "renamed.background": null,
         "renamed.border": null,
@@ -349,7 +349,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#F1F1F4",
+            "color": "#5F6488",
             "font_style": "italic",
             "font_weight": null
           },
@@ -495,9 +496,9 @@
         "modified": "#D6B4B4",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#6B6D7C",
+        "predictive.background": "#272938",
+        "predictive.border": "#0000",
         "renamed": "#709BBD",
         "renamed.background": null,
         "renamed.border": null,
@@ -722,7 +723,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#272938",
+            "color": "#6B6D7C",
             "font_style": "italic",
             "font_weight": null
           },
@@ -868,9 +870,9 @@
         "modified": "#F8D2C9",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#8D8F9E",
+        "predictive.background": "#1C1E2D",
+        "predictive.border": "#0000",
         "renamed": "#5ba2d0",
         "renamed.background": null,
         "renamed.border": null,
@@ -1095,7 +1097,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#1C1E2D",
+            "color": "#8D8F9E",
             "font_style": "italic",
             "font_weight": null
           },
@@ -1241,9 +1244,9 @@
         "modified": "#78a9ff",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#8D8F9E",
+        "predictive.background": "#0a0e15",
+        "predictive.border": "#101521",
         "renamed": null,
         "renamed.background": null,
         "renamed.border": null,
@@ -1478,7 +1481,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#0a0e15",
+            "color": "#8D8F9E",
             "font_style": "italic",
             "font_weight": null
           },
@@ -1619,9 +1623,9 @@
         "modified": "#F19A8E",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#5F6488",
+        "predictive.background": "#F1F1F4",
+        "predictive.border": "#0000",
         "renamed": "#3788BE",
         "renamed.background": null,
         "renamed.border": null,
@@ -1846,7 +1850,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#F1F1F4",
+            "color": "#5F6488",
             "font_style": "normal",
             "font_weight": null
           },
@@ -1992,9 +1997,9 @@
         "modified": "#D6B4B4",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#6B6D7C",
+        "predictive.background": "#272938",
+        "predictive.border": "#0000",
         "renamed": "#709BBD",
         "renamed.background": null,
         "renamed.border": null,
@@ -2219,7 +2224,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#272938",
+            "color": "#6B6D7C",
             "font_style": "normal",
             "font_weight": null
           },
@@ -2365,9 +2371,9 @@
         "modified": "#F8D2C9",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#8D8F9E",
+        "predictive.background": "#1C1E2D",
+        "predictive.border": "#0000",
         "renamed": "#5ba2d0",
         "renamed.background": null,
         "renamed.border": null,
@@ -2592,7 +2598,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#1C1E2D",
+            "color": "#8D8F9E",
             "font_style": "normal",
             "font_weight": null
           },
@@ -2738,9 +2745,9 @@
         "modified": "#78a9ff",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#acb0be",
-        "predictive.background": null,
-        "predictive.border": null,
+        "predictive": "#8D8F9E",
+        "predictive.background": "#0a0e15",
+        "predictive.border": "#101521",
         "renamed": null,
         "renamed.background": null,
         "renamed.border": null,
@@ -2975,7 +2982,8 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#acb0be",
+            "background_color": "#0a0e15",
+            "color": "#8D8F9E",
             "font_style": "normal",
             "font_weight": null
           },
