@@ -122,7 +122,7 @@
         "modified": "#F19A8E",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#3788BE",
@@ -350,7 +350,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "property": {
@@ -495,7 +495,7 @@
         "modified": "#D6B4B4",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#709BBD",
@@ -723,7 +723,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "property": {
@@ -868,7 +868,7 @@
         "modified": "#F8D2C9",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#5ba2d0",
@@ -1096,7 +1096,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "property": {
@@ -1241,7 +1241,7 @@
         "modified": "#78a9ff",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
@@ -1479,7 +1479,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "type.interface": {
@@ -1619,7 +1619,7 @@
         "modified": "#F19A8E",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#3788BE",
@@ -1847,7 +1847,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "normal",
             "font_weight": null
           },
           "property": {
@@ -1992,7 +1992,7 @@
         "modified": "#D6B4B4",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#709BBD",
@@ -2220,7 +2220,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "normal",
             "font_weight": null
           },
           "property": {
@@ -2365,7 +2365,7 @@
         "modified": "#F8D2C9",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": "#5ba2d0",
@@ -2593,7 +2593,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "normal",
             "font_weight": null
           },
           "property": {
@@ -2738,7 +2738,7 @@
         "modified": "#78a9ff",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#acb0be",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
@@ -2976,7 +2976,7 @@
           },
           "predictive": {
             "color": "#acb0be",
-            "font_style": null,
+            "font_style": "normal",
             "font_weight": null
           },
           "type.interface": {
