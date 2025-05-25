@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Serendipity",
   "author": "Nguyen Dang Vinh <meocoder@gmail.com>",
   "themes": [
