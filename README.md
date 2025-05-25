@@ -27,19 +27,23 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
 
 ### Midnight
 
-![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight.png?raw=true)
+![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight.png?raw=true)
 
 ### Midnight minimal
 
-![Midnight Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/midnight-minimal.png?raw=true)
+![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight-minimal.png?raw=true)
 
 ### Sunset
 
-![Sunset Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/sunset.png?raw=true)
+![Sunset Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/sunset.png?raw=true)
 
 ### Morning
 
-![Morning Preview](https://raw.githubusercontent.com/meocoder31099/Serendipity-Theme-Zed/main/assets/previews/morning.png?raw=true)
+![Morning Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/morning.png?raw=true)
+
+### Icons
+A super simple set of four super hyper mega cool icons for file, folder, open folder and  special files.
+![Serendipity icons](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/icons.png?raw=true)
 
 ## Personal Settings.
 
