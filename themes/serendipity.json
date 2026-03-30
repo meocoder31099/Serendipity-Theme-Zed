@@ -2699,6 +2699,7 @@
         "editor.invisible": null,
         "editor.wrap_guide": "#8c94a366",
         "editor.active_wrap_guide": "#8c94a366",
+        "editor.indent_guide": "#8c94a366",
         "editor.document_highlight.read_background": "#8c94a310",
         "editor.document_highlight.write_background": "#8c94a310",
         "terminal.background": "#0a0e15",
