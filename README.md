@@ -41,10 +41,6 @@ You have three themes, Sunset, Midnight and Morning and here the screenshots
 
 ![Morning Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/morning.png?raw=true)
 
-### Icons
-A super simple set of four super hyper mega cool icons for file, folder, open folder and  special files.
-![Serendipity icons](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/icons.png?raw=true)
-
 ## Personal Settings.
 
 ```js
