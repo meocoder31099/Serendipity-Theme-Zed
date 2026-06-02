@@ -6,7 +6,7 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 
 # Install via Zed Extensions
 
-1. Open the **Command Palette** with <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Macos) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows, Linux)
+1. Open the **Command Palette** with <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (macOS) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows, Linux)
 2. Open the **Extensions** view with the `zed: extensions` command
 3. Search for `Serendipity Themes`
 4. Click on **Install**.
@@ -16,59 +16,98 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 
 ## Available Options
 
-- Light Morning
-- Dark Sunset
-- Dark Midnight
-- Dark Midnight Minimal
-
-### Options
-
-You have three themes, Sunset, Midnight and Morning and here the screenshots
-
-### Midnight
-
-![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight.png?raw=true)
-
-### Midnight minimal
-
-![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight-minimal.png?raw=true)
-
-### Sunset
-
-![Sunset Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/sunset.png?raw=true)
+- **Serendipity Morning** (light)
+- **Serendipity Sunset** (dark)
+- **Serendipity Midnight** (dark)
+- **Serendipity Midnight Electric** (dark)
 
 ### Morning
 
 ![Morning Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/morning.png?raw=true)
 
-## Personal Settings.
+### Sunset
 
-```js
-{
-  "theme": {
-    "mode": "system",
-    "dark": "Serendipity Sunset",
-    "light": "Serendipity Morning"
+![Sunset Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/sunset.png?raw=true)
+
+
+### Midnight
+
+![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight.png?raw=true)
+
+### Midnight Electric
+
+![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight-electric.png?raw=true)
+
+
+
+Starting from version `v1.1.0`, all **No Italics** theme variants have been removed. All themes now use italics for certain language tokens by default. To **disable** italics for all themes, add this snippet to your `settings.json`:
+
+1. Open the **Command Palette** with <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (macOS) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows, Linux).
+2. Open your `settings.json` by running the `zed: open settings file` command.
+3. Add this snippet to your `settings.json`:
+
+```json
+"theme_overrides": {
+  "Serendipity Morning": {
+    "syntax": {
+      "attribute": { "font_style": "normal" },
+      "comment": { "font_style": "normal" },
+      "comment.doc": { "font_style": "normal" },
+      "emphasis": { "font_style": "normal" },
+      "function": { "font_style": "normal" },
+      "function.method": { "font_style": "normal" },
+      "link_text": { "font_style": "normal" },
+      "property": { "font_style": "normal" },
+      "variable": { "font_style": "normal" },
+      "variable.special": { "font_style": "normal" },
+      "variable.parameter": { "font_style": "normal" },
+    },
   },
-  "ui_font_family": "FiraCode Nerd Font Mono",
-  "ui_font_size": 15,
-  "buffer_font_size": 15,
-  "buffer_font_family": "FiraCode Nerd Font Mono",
-  "terminal": {
-    "dock": "bottom",
-    "font_size": 12,
-    "font_family": "FiraCode Nerd Font Mono"
+  "Serendipity Sunset": {
+    "syntax": {
+      "attribute": { "font_style": "normal" },
+      "comment": { "font_style": "normal" },
+      "comment.doc": { "font_style": "normal" },
+      "emphasis": { "font_style": "normal" },
+      "function": { "font_style": "normal" },
+      "function.method": { "font_style": "normal" },
+      "link_text": { "font_style": "normal" },
+      "property": { "font_style": "normal" },
+      "variable": { "font_style": "normal" },
+      "variable.special": { "font_style": "normal" },
+      "variable.parameter": { "font_style": "normal" },
+    },
   },
-  "project_panel": {
-    "dock": "right",
-    "folder_icons": false,
-    "file_icons": false,
-    "indent_size": 10
+  "Serendipity Midnight": {
+    "syntax": {
+      "attribute": { "font_style": "normal" },
+      "comment": { "font_style": "normal" },
+      "comment.doc": { "font_style": "normal" },
+      "emphasis": { "font_style": "normal" },
+      "function": { "font_style": "normal" },
+      "function.method": { "font_style": "normal" },
+      "link_text": { "font_style": "normal" },
+      "property": { "font_style": "normal" },
+      "variable": { "font_style": "normal" },
+      "variable.special": { "font_style": "normal" },
+      "variable.parameter": { "font_style": "normal" },
+    },
   },
-  // for indent guides multiple color
-  "indent_guides": {
-    "coloring": "indent_aware"
-  }
+  "Serendipity Midnight Electric": {
+    "syntax": {
+      "attribute": { "font_style": "normal" },
+      "comment": { "font_style": "normal" },
+      "comment.doc": { "font_style": "normal" },
+      "emphasis": { "font_style": "normal" },
+      "function": { "font_style": "normal" },
+      "function.method": { "font_style": "normal" },
+      "link_text": { "font_style": "normal" },
+      "property": { "font_style": "normal" },
+      "variable": { "font_style": "normal" },
+      "variable.special": { "font_style": "normal" },
+      "variable.parameter": { "font_style": "normal" },
+    },
+  },
 }
 ```
 
