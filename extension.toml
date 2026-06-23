@@ -1,7 +1,7 @@
 id = "serendipity"
 name = "Serendipity Themes"
 schema_version = 1
-version = "1.1.0"
+version = "1.1.1"
 authors = [
   "Nguyen Dang Vinh <meocoder@gmail.com>",
   "Micheal Andreuzza <michael@andreuzza.com>",
